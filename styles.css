@@ -1,0 +1,37 @@
+h1 {
+	padding: 10px;
+	border-style: solid;
+
+
+}
+
+#guitarplayer {
+	margin: 80px;
+}
+
+footer {
+	text-align: center;
+
+}
+
+body {
+	 background-image: url("http://cornucopia3d.e-oncontent.com/galleries/albums/userpics/1034685/Dark-Trees512.jpg");
+	 color: white;
+	 font-family: helvetica;
+}
+
+.noobs {
+	font-family: times;
+
+}
+
+a:visited {
+	color: red;
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    background-color: red;
+    color: gray;
+  }
+}
